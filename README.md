@@ -1,2 +1,3 @@
 # hello-world
-Learning Git
+Learning Git.
+This is the first Git repository created. 
